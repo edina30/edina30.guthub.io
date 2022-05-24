@@ -1,2 +1,2 @@
-# edina30.guthub.io
+# edina30.github.io
 demo
